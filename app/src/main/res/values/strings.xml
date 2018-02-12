@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="action_settings">Settings</string>
+    <string name="nom">Nom :</string>
+    <string name="h">Homme</string>
+    <string name="f">Femme</string>
+    <string name="button">Calculer age</string>
+</resources>
